@@ -38,6 +38,7 @@
   "dependencies": {
     "dotenv": "4.0.0",
     "express": "4.14.1",
-    "messenger-bot-utils": "0.1.0"
+    "messenger-bot-utils": "0.1.0",
+    "superagent": "3.4.3"
   }
 }
